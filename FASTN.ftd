@@ -1,0 +1,16 @@
+-- import: fastn
+
+-- fastn.package: __user_name__.github.io/__repo_name__
+favicon: /-/__user_name__.github.io/__repo_name__/favicon.ico
+
+-- fastn.dependency: fastn-community.github.io/business-card
+
+-- fastn.auto-import: __user_name__.github.io/__repo_name__/assets
+
+
+-- fastn.sitemap:
+
+# Home: index.html
+
+- Overview: index.html
+- How to use: /how-to-use/
